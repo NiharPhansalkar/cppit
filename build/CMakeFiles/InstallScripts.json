@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tigress/cppit/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

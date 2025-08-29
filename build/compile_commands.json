@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/tigress/cppit/build",
+  "command": "/usr/bin/c++  -I/home/tigress/cppit/include -std=c++23 -o CMakeFiles/cppit.dir/cppit.cpp.o -c /home/tigress/cppit/cppit.cpp",
+  "file": "/home/tigress/cppit/cppit.cpp",
+  "output": "CMakeFiles/cppit.dir/cppit.cpp.o"
+},
+{
+  "directory": "/home/tigress/cppit/build",
+  "command": "/usr/bin/c++  -I/home/tigress/cppit/include -std=c++23 -o CMakeFiles/cppit.dir/src/commands/InitCommand.cpp.o -c /home/tigress/cppit/src/commands/InitCommand.cpp",
+  "file": "/home/tigress/cppit/src/commands/InitCommand.cpp",
+  "output": "CMakeFiles/cppit.dir/src/commands/InitCommand.cpp.o"
+},
+{
+  "directory": "/home/tigress/cppit/build",
+  "command": "/usr/bin/c++  -I/home/tigress/cppit/include -std=c++23 -o CMakeFiles/cppit.dir/src/core/AppContext.cpp.o -c /home/tigress/cppit/src/core/AppContext.cpp",
+  "file": "/home/tigress/cppit/src/core/AppContext.cpp",
+  "output": "CMakeFiles/cppit.dir/src/core/AppContext.cpp.o"
+},
+{
+  "directory": "/home/tigress/cppit/build",
+  "command": "/usr/bin/c++  -I/home/tigress/cppit/include -std=c++23 -o CMakeFiles/cppit.dir/src/core/CommandRegistry.cpp.o -c /home/tigress/cppit/src/core/CommandRegistry.cpp",
+  "file": "/home/tigress/cppit/src/core/CommandRegistry.cpp",
+  "output": "CMakeFiles/cppit.dir/src/core/CommandRegistry.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/tigress/cppit/build/CMakeFiles/cppit.dir
+/home/tigress/cppit/build/CMakeFiles/edit_cache.dir
+/home/tigress/cppit/build/CMakeFiles/rebuild_cache.dir
