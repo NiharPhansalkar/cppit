@@ -1,6 +1,6 @@
-#include "core/Workspace.hpp";
+#include "core/Workspace.hpp"
 
-const std::unordered_set<fs::path> IGNORE = {".", "..", ".git"};
+const std::unordered_set<fs::path> Workspace::IGNORE = {".", "..", ".git"};
 
 Workspace::Workspace(const fs::path& root) : rootPath(root) {}
 
@@ -14,4 +14,8 @@ std::vector<fs::path> Workspace::listFiles() const {
             files.emplace_back(file.path());
         }
     }
+}
+
+FileObject Workspace::openFile(const fs::path& absolutePath) const {
+    return FileObject(absolutePath);
 }

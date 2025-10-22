@@ -1,7 +1,7 @@
 #pragma once
 
-#include "core/Command.hpp";
-#include "core/CommandRegistrar.hpp";
+#include "core/Command.hpp"
+#include "core/CommandRegistrar.hpp"
 
 class CommitCommand : public Command {
 public:
